@@ -1,0 +1,33 @@
+{
+    "ordenadores" : [
+
+        {
+            "id": 1,
+            "nombre": "Asus 34-HB",
+            "cpus": "i3 10400f",
+            "ram" : "4 GB",
+            "pantalla" : 15,
+            "software" : "Antivirus, SO Microsoft, Office 360"
+
+        },
+        {
+            "id": 2,
+            "nombre": "Razor 578-H",
+            "cpus": "Ryzer 5 1600",
+            "ram" : "8 GB",
+            "pantalla" : 17,
+            "software" : "Antivirus, SO Linux, Libre Office"
+
+        },
+        {
+            "id": 3,
+            "nombre": "HP Pavilium 21s",
+            "cpus": "i9 12900k",
+            "ram" : "16 GB",
+            "pantalla" : 19,
+            "software" : "Antivirus, SO Ubuntu coret, Open Office"
+
+        }
+    ]
+
+}

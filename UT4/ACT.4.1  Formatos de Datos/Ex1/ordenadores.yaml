@@ -1,0 +1,29 @@
+--- # Labtops list
+laptops:
+  - id: 1
+    name: Asus 34-HB
+    CPUs: i3 10400f
+    RAM: 4
+    screen: 15
+    software:
+      - Antivirus
+      - SO Microsoft
+      - Office 360
+  - id: 2
+    name: Razor 578-H
+    CPUs: Ryzen 5 1600
+    RAM: 8
+    screen: 16
+    software:
+      - Antivirus
+      - SO Linux
+      - Libre Office
+  - id: 3
+    name: HP Pavilium 21s
+    CPUs: i9 12900k
+    RAM: 16
+    screen: 17
+    software:
+      - Antivirus
+      - SO Ubuntu coret
+      - Open Office

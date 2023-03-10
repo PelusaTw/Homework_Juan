@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<computers>
+  <laptop>
+    <id>1</id>
+    <name>Asus 34-HB</name>
+    <CPUs>i3 10400f</CPUs>
+    <RAM>4</RAM>
+    <screen>15</screen>
+    <apps>
+      <software>Antivirus</software>
+      <software>SO Microsoft</software>
+      <software>Office 360</software>
+    </apps>
+  </laptop>
+  <laptop>
+    <id>2</id>
+    <name>Razor 578-H</name>
+    <CPUs>Ryzer 5 1600</CPUs>
+    <RAM>8</RAM>
+    <screen>16</screen>
+    <apps>
+      <software>Antivirus</software>
+      <software>SO Linux</software>
+      <software>Libre Office</software>
+    </apps>
+  </laptop>
+  <laptop>
+    <id>3</id>
+    <name>HP Pavilium 21s</name>
+    <CPUs>i9 12900k</CPUs>
+    <RAM>16</RAM>
+    <screen>17</screen>
+    <apps>
+      <software>Antivirus</software>
+      <software>SO Ubuntu coret</software>
+      <software>Open Office</software>
+    </apps>
+  </laptop>
+</computers>
