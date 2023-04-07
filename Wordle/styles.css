@@ -1,0 +1,58 @@
+body{
+    display: flex;
+    justify-content: center;
+    transition: .5s ease all;
+    
+}
+
+
+#grid-words{
+    display: grid;
+    grid-template-columns: repeat(5, 2rem);
+    grid-template-rows: repeat(5, 2rem);
+    gap: 8px;
+}
+
+#grid-words div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    text-transform: uppercase;
+}
+
+.form-user{
+    padding: 2rem 0;
+}
+
+form{
+    display: flex;
+}
+
+.switch {
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.yellow-letter{
+    background-color: yellow;
+}
+.green-letter{
+    background-color: green;
+}
+.grey-letter{
+    background-color: grey;
+}
+
+.dark{
+    background: rgb(14, 7, 50);
+}
+
+.dark main{
+    color: white;
+}
+
+.dark #grid-words div{
+    border: 1px solid white;
+}
+

@@ -1,0 +1,147 @@
+*{
+    padding:0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+main{
+    width: 100vw;
+    height: 100vh;
+    background-color: #121212;
+}
+header{
+    width: 93%;
+    height: 40%;
+    display: flex;
+    margin: 0px 50px;
+    align-items: center;
+    background: rgb(69,10,10);
+    background: linear-gradient(0deg, rgba(69,10,10,1) 0%, rgba(205,21,21,1) 100%);
+}
+
+header img{
+    margin: 20px;
+    width: 232px;
+    height: 232px;
+    box-shadow: 2px 3px 49px -2px rgba(0,0,0,0.66);
+    -webkit-box-shadow: 2px 3px 49px -2px rgba(0,0,0,0.66);
+    -moz-box-shadow: 2px 3px 49px -2px rgba(0,0,0,0.66);
+}
+header h6{
+    padding-bottom: 20px;
+    font-size: 1rem;
+}
+header .title{
+    font-size: 5rem;
+}
+.info{
+    display: flex;
+    
+}
+.logo{
+    display: flex;
+    align-items: center;
+}
+.text{
+    padding-top: 50px;
+    color: white;
+}
+
+.text span, .info-playlist{
+    color: #D4ABAB;
+}
+
+.playlist-buttons-left, .playlist-buttons-right{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.playlist-buttons{
+    display: flex;
+    justify-content: space-between;
+}
+.playlist-songs-container{
+    
+    height: 100vh;
+    width: 93%;
+    margin:0px 50px;
+    background: rgb(24,24,24);
+    background: linear-gradient(0deg, rgba(24,24,24,1) 0%, rgba(24,24,24,1) 25%, rgba(82,9,9,1) 100%);
+    padding: 20px;
+}
+.playlist-buttons-resume-pause{
+    background-color: #1FDF64;
+    width: 54px;
+    height: 54px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.playlist-button-resume-like,.playlist-button-download, .playlist-button-three-dots{
+    margin-left: 20px;
+}
+
+.playlist-button-order{
+    color: white;
+    position: relative;
+    top: -2px;
+    margin-left: 20px;
+}
+.playlist-songs {
+    margin-top: 20px;
+}
+
+.playlist-songs table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.playlist table tr td, .playlist-songs tr th{
+    padding: 10px;
+    color: #CACACA;
+}
+
+.playlist-songs table tr th {
+    font-weight: 200;
+    font-size: 14px;
+    letter-spacing: 2px;
+}
+
+.playlist-songs table tr:first-of-type{
+    border-bottom: 1px solid #CACACA;
+}
+
+.playlist-songs table th{
+    text-align: left;
+}
+
+.song-image img{
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+}
+ .song-name{
+    font-weight: 400;
+    font-size: 16px;
+    color: white;
+}
+.song-artist{
+    font-weight: 300;
+    font-size: 14px;
+    color: #B3B3B3;
+}
+ .song-name-album{
+    padding-left: 15px;
+    letter-spacing: 0.5px;
+}
+
+.song-title {
+    display: flex;
+    color: white;
+    margin-top: 10px;
+}
+
+
+
+

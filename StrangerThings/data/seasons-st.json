@@ -1,0 +1,45 @@
+{
+    "title":"Stranger Things",
+    "sypnosis":"...",
+    "seasons":[
+        {
+            "number":1,
+            "episodes":[
+                {
+                "number":1,
+                "title":"Capítulo uno: Lionel Messi, el mejor del mundo",
+                "duration":56,
+                "image":"messiCopa.jpg",
+                "description":"Cuando vuelve en bici a su casa, Will ve algo horroroso. Cerca de allí, un siniestro secreto acecha en las profundidades de un laboratorio estatal."
+                },
+                {
+                "number":2,
+                "title":"Capítulo dos: Messi sigue siendo le mejor del mundo",
+                "duration":52,
+                "image":"episode-2.jpg",
+                "description":"Cuando vuelve en bici a su casa, Will ve algo horroroso. Cerca de allí, un siniestro secreto acecha en las profundidades de un laboratorio estatal."
+                }
+            ] 
+        },
+        {
+            "number":2,
+            "episodes":[
+                {
+                "number":1,
+                "title":"Capítulo uno: La desaparición de Cristiano Ronaldo",
+                "duration":56,
+                "image":"episode-1.jpg",
+                "description":"Despues de ser considerado uno de los mejores del mundo, CR7 desaparace de las mejoras ligas del mundo."
+                },
+                {
+                "number":2,
+                "title":"Capítulo dos: La caida de Cristiano Ronaldo",
+                "duration":56,
+                "image":"episode-1.jpg",
+                "description":"Cristiano es tachado de mentiroso al ver que juega en una liga arabe, cuando en 2015 dijo que iba a terminar su carrera en un club top."
+                }
+            ] 
+        }
+        
+    ]
+}
